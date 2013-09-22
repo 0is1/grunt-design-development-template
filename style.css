@@ -1,0 +1,17 @@
+/*
+ * Theme Name: Theme name
+ * Description: Project description
+ * Theme URI: http://example.com
+ * Author: Janne Saarela
+ * Template: Template name
+ * Version 0.1.0
+ * Copyright 2013. ???licensed. */
+
+/*
+* Add your styles here
+*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
